@@ -1,11 +1,11 @@
 ### Hello, I'm Amir Awawdi  👋
 
-Currently, I'm a data science student utilizng R, Python (Pandas and Numpy), SQL and advanced spreadsheet skills for data analysis as well as Tableau, Seaborn and Matlitplot fro data visualization.
+Currently, I'm a data science student with extensive knolwedge and advanced set of skills utilizing R, Python (Pandas and Numpy), SQL and advanced spreadsheet skills for data analytics as well as Tableau, Seaborn and Matlitplot fro data visualization.
 I'm highly motivated and passionate about this field and looking for my first position as a data sciensits.
 
-🔭 I’m currently working on DataCamp and Udacity projects
+Looking to collaborate on data science projects.
 
-👯 I’m looking to collaborate on data science projects.
+Actively seeking a data scientist, engineer or analyst position.
 
 I'm an adept Ex micro-photolithography process engineer with expertise in tabular data cleaning and analysis using JMP for statistical analysis and Excel for spreadsheet analysis. 
 My advanced self-learning ability allowed me to quickly progress and lead metrology-related process improvement projects, as well as provide support to other departments. 
