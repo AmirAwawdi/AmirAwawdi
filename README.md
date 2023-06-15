@@ -1,6 +1,6 @@
 ### Hello, I'm Amir Awawdi  👋
 
-Currently, I'm a data science student with extensive knowledge and advanced set of skills utilizing R, Python (Pandas and Numpy), SQL and spreadsheet skills for data analytics as well as Tableau, Seaborn and Matlibplot for data visualization.
+Currently, I'm a data science student with extensive knowledge and advanced set of skills utilizing R, Python (Pandas and Numpy), SQL and spreadsheets for data analytics as well as Tableau, Seaborn and Matlibplot for data visualization.
 I'm highly motivated and passionate about this field and looking for my first position as a data sciensits.
 
 Looking to collaborate on data science projects.
